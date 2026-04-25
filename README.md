@@ -54,6 +54,12 @@ cd vijay-shop-springboot-ecommerce
 # Run application
 ./mvnw spring-boot:run
 
+
+Open browser:
+http://localhost:8080
+
+
+
 🔑 Default Login
 
 | Role  | Username | Password |
