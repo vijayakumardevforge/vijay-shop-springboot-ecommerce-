@@ -44,7 +44,7 @@ H2 Database
 
 ## ▶️ How to Run
 
-```bash
+
 # Clone project
 git clone https://github.com/your-username/vijay-shop-springboot-ecommerce.git
 
