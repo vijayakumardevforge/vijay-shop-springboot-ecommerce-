@@ -46,7 +46,7 @@ H2 Database
 
 
 # Clone project
-git clone https://github.com/your-username/vijay-shop-springboot-ecommerce.git
+git clone https://github.com/vijayakumardevforge/vijay-shop-springboot-ecommerce-.git
 
 # Navigate to project
 cd vijay-shop-springboot-ecommerce
