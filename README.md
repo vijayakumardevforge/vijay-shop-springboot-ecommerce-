@@ -62,9 +62,18 @@ cd vijay-shop-springboot-ecommerce
 | User  | vijay    | 123      |
 
 
+
+📸 Screenshots
+
+
+🔐 User Login
+
+
 <img width="1911" height="909" alt="Image" src="https://github.com/user-attachments/assets/e253f7e6-97e2-40df-9bc1-bf06e18cda8e" />
 
+
 📝 Register Screen
+
 
 <img width="1905" height="908" alt="Image" src="https://github.com/user-attachments/assets/cdeebde7-32d4-45c6-8343-3f8c6a563a48" />
 
@@ -116,12 +125,16 @@ dao/
 model/
 config/
 views/
+
 💡 Highlights
+
 Full MVC architecture
 Role-based authentication system
 Real-world e-commerce workflow
 Backend-focused implementation
+
 📌 Future Improvements
+
 Payment integration
 Order tracking
 REST API version
