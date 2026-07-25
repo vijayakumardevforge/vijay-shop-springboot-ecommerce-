@@ -139,11 +139,9 @@ src/main/webapp
 - Java
 - Spring Boot
 - Spring Security
-- Hibernate ORM
 - MVC Architecture
 - Authentication & Authorization
 - Database Design
-- JSP & JSTL
 - Bootstrap
 - CRUD Operations
 
